@@ -1,16 +1,16 @@
 {
-  "name": "Ethix-MD",
+  "name": "Tsuma-BT",
   "version": "10.8.1",
-  "description": "Ethix-MD latest multi device whatsapp bot",
+  "description": "Tsuma-BT latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Ethix-MD",
-    "stop": "pm2 stop Ethix-MD",
-    "restart": "pm2 restart Ethix-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Tsuma-BT",
+    "stop": "pm2 stop Tsuma-BT",
+    "restart": "pm2 restart Tsuma-BT"
   },
-  "keywords": ["ethix-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Ethix-Xsid",
+  "keywords": ["tsuma-bt", "whatsapp-bot", "whatsapp md bot"],
+  "author": "TSUMA",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
